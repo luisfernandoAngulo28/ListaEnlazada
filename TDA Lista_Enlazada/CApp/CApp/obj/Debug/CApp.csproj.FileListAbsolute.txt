@@ -1,0 +1,6 @@
+C:\Users\ferna\source\repos\TDA Lista_Enlazada\CApp\CApp\bin\Debug\CApp.dll
+C:\Users\ferna\source\repos\TDA Lista_Enlazada\CApp\CApp\bin\Debug\CApp.pdb
+C:\Users\ferna\source\repos\TDA Lista_Enlazada\CApp\CApp\obj\Debug\CApp.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\TDA Lista_Enlazada\CApp\CApp\obj\Debug\CApp.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\TDA Lista_Enlazada\CApp\CApp\obj\Debug\CApp.dll
+C:\Users\ferna\source\repos\TDA Lista_Enlazada\CApp\CApp\obj\Debug\CApp.pdb
